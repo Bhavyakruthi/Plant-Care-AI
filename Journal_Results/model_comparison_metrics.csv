@@ -1,0 +1,4 @@
+Model,Accuracy (%),Precision (%),Recall (%),F1 Score (%)
+Text_BioBERT,66.72,67.75,66.72,66.19
+Image_CNN_QNN,95.77,95.87,95.77,95.77
+Ensemble_Fused,97.06,97.08,97.06,97.06

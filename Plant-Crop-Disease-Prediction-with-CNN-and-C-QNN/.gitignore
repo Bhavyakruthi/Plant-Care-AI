@@ -1,0 +1,44 @@
+
+
+
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+
+# Virtual environments
+venv/
+.env/
+env/
+
+# PyTorch models and results
+models/
+results/
+*.pt
+*.pth
+
+# Data
+*.csv
+*.xlsx
+*.xls
+features/*.pt
+
+# Logs and checkpoints
+*.log
+checkpoints/
+
+# VSCode
+.vscode/
+
+# Mac/Windows system files
+.DS_Store
+Thumbs.db
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Other
+*.tmp
+*.bak
+*.swp

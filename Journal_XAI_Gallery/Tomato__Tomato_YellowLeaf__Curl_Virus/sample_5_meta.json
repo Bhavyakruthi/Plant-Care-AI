@@ -1,0 +1,12 @@
+{
+    "sample": 5,
+    "file": "88048288-a940-4ca0-8cd2-26aaf09ef008___YLCV_GCREC 2319.JPG",
+    "true_label": "Tomato__Tomato_YellowLeaf__Curl_Virus",
+    "pred_label": "Tomato__Tomato_YellowLeaf__Curl_Virus",
+    "is_correct": true,
+    "confidence": 0.3292025327682495,
+    "description": "Technical leaf morphology showing symptoms characteristic of Tomato__Tomato_YellowLeaf__Curl_Virus.",
+    "symptom_importance": {
+        "yellow": 0.6332360744741174
+    }
+}

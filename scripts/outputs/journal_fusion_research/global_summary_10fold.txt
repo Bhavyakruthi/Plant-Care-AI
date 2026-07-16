@@ -1,0 +1,9 @@
+GLOBAL FUSION ANALYSIS REPORT (10-FOLD CV)
+=============================================
+Strategy             | Accuracy (Mean ± Std)     | F1-Score (Mean ± Std)    
+---------------------------------------------------------------------------
+Concatenation        | 96.90% ± 0.43%            | 96.89% ± 0.42%           
+Simple Addition      | 96.75% ± 0.35%            | 96.75% ± 0.34%           
+Learned Weight       | 97.43% ± 0.29%            | 97.43% ± 0.28%           
+Vision Bias          | 97.45% ± 0.45%            | 97.45% ± 0.45%           
+Text Bias            | 96.04% ± 0.69%            | 96.04% ± 0.67%           

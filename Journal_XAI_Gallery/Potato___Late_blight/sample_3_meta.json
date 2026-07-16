@@ -1,0 +1,14 @@
+{
+    "sample": 3,
+    "file": "9c230647-02da-4948-9c52-dfc87bb1d34a___RS_LB 4593.JPG",
+    "true_label": "Potato___Late_blight",
+    "pred_label": "Potato___Late_blight",
+    "is_correct": true,
+    "confidence": 0.7166318297386169,
+    "description": "{\"edges\": \"Irregular, with some areas appearing scorched or necrotic.\", \"veins\": \"Veins are visible but surrounded by chlorotic and necrotic tissue; vein clearing is present.\"} {\"color\": \"Brown, tan, and greyish-purple.\", \"shape\": \"Irregular, blotchy, and expanding. Some lesions appear target-like with concentric rings.\"} Symptoms are concentrated in the central and upper portions of the leaf, spreading outwards. Lesions are not uniformly distributed.",
+    "symptom_importance": {
+        "necrotic": 0.9159953821800343,
+        "lesion": 0.8387462224589026,
+        "vein": 0.4068365827671442
+    }
+}

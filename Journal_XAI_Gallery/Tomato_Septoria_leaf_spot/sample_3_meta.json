@@ -1,0 +1,16 @@
+{
+    "sample": 3,
+    "file": "5535ef29-cb2d-4a0d-a16c-d0c2ed296b3a___Matt.S_CG 0766.JPG",
+    "true_label": "Tomato_Septoria_leaf_spot",
+    "pred_label": "Tomato_Leaf_Mold",
+    "is_correct": false,
+    "confidence": 0.30835628509521484,
+    "description": "{\"description\": \"Simple leaf, ovate-lanceolate shape, acute apex, entire margin with slight undulation. Venation appears pinnate.\"} {\"description\": \"Multiple, irregularly shaped lesions present. Lesions exhibit a chlorotic halo surrounding a necrotic center. Some lesions appear slightly raised or textured. Color ranges from pale yellow to brown/black.\"} Lesions are primarily concentrated on the upper leaf surface, with a non-uniform distribution. Higher density of lesions towards the distal portion of the leaf and along veins. No apparent pattern of distribution (random or clustered).",
+    "symptom_importance": {
+        "halo": 0.9774215925642121,
+        "necrotic": 0.9140676750507047,
+        "lesion": 0.7400512797416707,
+        "yellow": 0.5542210984108662,
+        "vein": 0.38624377467966636
+    }
+}

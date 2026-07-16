@@ -1,0 +1,16 @@
+{
+    "sample": 3,
+    "file": "6c5385cd-d362-4810-b4e8-58ab768c706c___RS_Early.B 8323.JPG",
+    "true_label": "Potato___Early_blight",
+    "pred_label": "Potato___Early_blight",
+    "is_correct": true,
+    "confidence": 0.6998745203018188,
+    "description": "{\"edges\": \"Irregular, some areas exhibiting necrosis and drying.\", \"veins\": \"Visible, but surrounded by necrotic tissue; vein clearing not prominent.\"} {\"color\": \"Dark brown to black, with a yellow halo in some areas.\", \"shape\": \"Irregular, often angular, and coalescing. Some lesions appear target-like with concentric rings.\"} Symptoms are widespread across the leaf surface, with a concentration towards the distal portion. Lesions are not uniformly distributed, but clustered.",
+    "symptom_importance": {
+        "necrotic": 0.9774916201179866,
+        "halo": 0.883175793319063,
+        "lesion": 0.8602656683208867,
+        "yellow": 0.6586028359747752,
+        "vein": 0.4180926671783137
+    }
+}

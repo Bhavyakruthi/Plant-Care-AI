@@ -1,0 +1,13 @@
+{
+    "sample": 4,
+    "file": "59e3d4c3-f6fe-4d68-82a5-d509b810b39d___PSU_CG 2303.JPG",
+    "true_label": "Tomato__Tomato_mosaic_virus",
+    "pred_label": "Tomato__Tomato_mosaic_virus",
+    "is_correct": true,
+    "confidence": 0.6773476004600525,
+    "description": "{\"edges\": \"Slightly serrated, some curling observed.\", \"veins\": \"Visible, but discoloration along veins is present.\"} {\"color\": \"Yellow to chlorotic, with some areas appearing pale green.\", \"shape\": \"Irregular, blotchy, and interveinal.\"} Symptoms are concentrated along the midrib and extending outwards between the veins, with a gradient from healthy green to chlorotic yellow. Primarily affects the lower portion of the leaf.",
+    "symptom_importance": {
+        "yellow": 0.6112793377178948,
+        "vein": 0.4382300829635595
+    }
+}

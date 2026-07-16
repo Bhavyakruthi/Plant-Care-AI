@@ -1,0 +1,16 @@
+{
+    "sample": 4,
+    "file": "f36508ae-5375-40da-b127-17f3ee0fd837___Com.G_TgS_FL 8369.JPG",
+    "true_label": "Tomato__Target_Spot",
+    "pred_label": "Tomato__Target_Spot",
+    "is_correct": true,
+    "confidence": 0.5974329710006714,
+    "description": "{\"description\": \"Leaf exhibits significant distortion and puckering. Venation is prominent and raised, suggesting altered growth patterns. Overall leaf texture appears rough and uneven.\"} {\"description\": \"Presence of small, necrotic spots, particularly concentrated along the veins. These spots are dark brown to black in color and appear slightly sunken. Some areas exhibit a diffuse chlorosis, transitioning into necrosis.\"} Symptoms are not uniformly distributed. The upper portion of the leaf displays more pronounced distortion and necrosis, while the lower portion shows less severe chlorosis. Lesions are primarily concentrated along the major and minor veins, creating a vein-banding pattern.",
+    "symptom_importance": {
+        "necrotic": 0.8732093788266359,
+        "chlorosis": 0.8598236115669405,
+        "lesion": 0.7726627542961555,
+        "spot": 0.7655356812237922,
+        "vein": 0.3741700853225155
+    }
+}

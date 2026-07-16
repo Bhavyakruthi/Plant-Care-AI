@@ -1,0 +1,22 @@
+======================================================================
+10-FOLD CROSS-VALIDATION RESULTS - IMAGE-ONLY MODEL (CNN+QNN)
+======================================================================
+
+Accuracy:
+  Mean ± Std:  96.48% ± 0.46%
+  Range:       [95.71%, 97.24%]
+
+Precision:
+  Mean ± Std:  96.62% ± 0.41%
+  Range:       [96.06%, 97.31%]
+
+Recall:
+  Mean ± Std:  96.48% ± 0.46%
+  Range:       [95.71%, 97.24%]
+
+F1-Score:
+  Mean ± Std:  96.47% ± 0.45%
+  Range:       [95.75%, 97.24%]
+
+95% Confidence Interval for Accuracy:
+  96.48% ± 0.28%

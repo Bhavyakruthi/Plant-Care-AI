@@ -1,0 +1,15 @@
+{
+    "sample": 3,
+    "file": "170f1f57-0fd4-421f-9c82-3b1804be63ad___RS_HL 1771.JPG",
+    "true_label": "Potato___healthy",
+    "pred_label": "Potato___healthy",
+    "is_correct": true,
+    "confidence": 0.6768389940261841,
+    "description": "{\"description\": \"Simple leaf, ovate shape, acute apex, entire margin. Prominent reticulate venation visible.\"} {\"description\": \"Numerous, small, chlorotic flecks and spots are present. Some spots appear slightly raised and may have a subtle halo. No evidence of necrosis or significant tissue deformation.\"} Lesions are distributed across the entire leaf surface, appearing relatively uniform in density. Higher concentration along the midrib and secondary veins.",
+    "symptom_importance": {
+        "halo": 0.9714302569685903,
+        "lesion": 0.7944432547604894,
+        "spot": 0.6684188599503432,
+        "vein": 0.381906749961762
+    }
+}

@@ -1,0 +1,14 @@
+{
+    "sample": 5,
+    "file": "496bcc16-a0f1-47cb-bf86-db0c959fc0d0___JR_HL 7614.JPG",
+    "true_label": "Pepper__bell___healthy",
+    "pred_label": "Pepper__bell___healthy",
+    "is_correct": true,
+    "confidence": 0.8037516474723816,
+    "description": "{\"edges\": \"Slightly undulate, entire margin\", \"veins\": \"Pinnate venation, prominent midrib and secondary veins\"} {\"color\": \"Pale yellow to light green\", \"shape\": \"Irregular, interveinal chlorosis; some areas appear slightly translucent\"} Symptoms are distributed throughout the leaf blade, primarily between the veins. No clear pattern of initial infection point.",
+    "symptom_importance": {
+        "chlorosis": 0.7449269148635532,
+        "yellow": 0.616027233118893,
+        "vein": 0.40183531137275097
+    }
+}

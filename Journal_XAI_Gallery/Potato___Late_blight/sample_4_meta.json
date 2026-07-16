@@ -1,0 +1,13 @@
+{
+    "sample": 4,
+    "file": "d42061d8-9da0-4190-8dd0-d3629f0cfa53___RS_LB 3954.JPG",
+    "true_label": "Potato___Late_blight",
+    "pred_label": "Potato___Late_blight",
+    "is_correct": true,
+    "confidence": 0.5129827260971069,
+    "description": "{\"edges\": \"Irregular, some necrosis present\", \"veins\": \"Visible, but not prominently affected; some discoloration along veins\"} {\"color\": \"Dark brown to black\", \"shape\": \"Irregular, blotchy, coalescing\"} Primarily interveinal areas, expanding towards leaf margins; concentrated on one side of the midvein",
+    "symptom_importance": {
+        "margins": 0.5039499936470758,
+        "vein": 0.39721845839401687
+    }
+}

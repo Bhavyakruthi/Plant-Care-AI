@@ -1,0 +1,36 @@
+================================================================================
+ENSEMBLE MODEL EVALUATION REPORT
+================================================================================
+
+ACCURACY SUMMARY:
+  Text Model (BioBERT):        66.72%
+  Image Model (CNN+QNN):       95.77%
+  Ensemble (alpha=0.50 - DEFAULT): 96.82%
+  Ensemble (alpha=0.99 - MLE OPT): 95.81%
+
+IMPROVEMENT:
+  Over default ensemble: -1.02%
+  Over best single model: +0.04%
+
+CLASSIFICATION REPORT:
+                                             precision    recall  f1-score   support
+
+              Pepper__bell___Bacterial_spot       0.99      1.00      1.00       149
+                     Pepper__bell___healthy       1.00      1.00      1.00       222
+                      Potato___Early_blight       0.99      1.00      1.00       149
+                       Potato___Late_blight       0.99      0.96      0.98       150
+                           Potato___healthy       0.92      1.00      0.96        22
+                      Tomato_Bacterial_spot       0.96      0.97      0.97       225
+                        Tomato_Early_blight       0.90      0.87      0.88       150
+                         Tomato_Late_blight       0.97      0.96      0.96       213
+                           Tomato_Leaf_Mold       0.97      0.86      0.91       143
+                  Tomato_Septoria_leaf_spot       0.92      0.97      0.95       198
+Tomato_Spider_mites_Two_spotted_spider_mite       0.94      0.95      0.95       200
+                        Tomato__Target_Spot       0.88      0.94      0.91       208
+      Tomato__Tomato_YellowLeaf__Curl_Virus       0.99      0.97      0.98       241
+                Tomato__Tomato_mosaic_virus       0.84      0.95      0.89        56
+                             Tomato_healthy       1.00      0.97      0.98       225
+
+                                   accuracy                           0.96      2551
+                                  macro avg       0.95      0.96      0.95      2551
+                               weighted avg       0.96      0.96      0.96      2551

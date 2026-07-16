@@ -1,0 +1,15 @@
+{
+    "sample": 5,
+    "file": "654aaf22-e23a-441d-ad57-914843a36c64___RS_Early.B 7924.JPG",
+    "true_label": "Potato___Early_blight",
+    "pred_label": "Potato___Early_blight",
+    "is_correct": true,
+    "confidence": 0.6720485091209412,
+    "description": "{\"edges\": \"Irregular, some areas exhibiting necrosis and curling.\", \"veins\": \"Visible, but not prominently affected; some areas appear slightly chlorotic around veins.\"} {\"color\": \"Dark brown to black.\", \"shape\": \"Irregular, ranging from small spots to larger, coalescing blotches. Some lesions have a slightly raised, textured appearance.\"} Symptoms are widespread across the leaf surface, with a higher concentration towards the margins and lower leaf surface. Lesions are scattered but numerous.",
+    "symptom_importance": {
+        "lesion": 0.8529368851260497,
+        "spot": 0.7685949530352967,
+        "margins": 0.4748096934975501,
+        "vein": 0.36890399323003353
+    }
+}

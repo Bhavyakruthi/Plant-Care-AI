@@ -1,0 +1,15 @@
+{
+    "sample": 5,
+    "file": "d8f27502-b864-4da3-9dd5-b7eccf2e8cbc___Crnl_L.Mold 6708.JPG",
+    "true_label": "Tomato_Leaf_Mold",
+    "pred_label": "Tomato_Leaf_Mold",
+    "is_correct": true,
+    "confidence": 0.6693022847175598,
+    "description": "{\"description\": \"Leaf exhibits a lobed margin with prominent venation. Surface appears slightly pubescent. Overall leaf shape is broadly ovate.\"} {\"description\": \"Multiple chlorotic lesions are present. Lesions are generally small to medium in size (approximately 2-8mm diameter). Lesions appear somewhat irregular in shape, with slightly raised or blister-like appearance in some areas. Some lesions exhibit a necrotic center.\"} Lesions are distributed across the leaf surface, with a higher concentration along the veins and margins. Distribution appears somewhat random, but with a tendency to follow vein patterns. Both adaxial and abaxial surfaces likely affected (based on lesion appearance).",
+    "symptom_importance": {
+        "necrotic": 0.9092128572812006,
+        "lesion": 0.7651641537841836,
+        "margins": 0.5134837199988382,
+        "vein": 0.4294761153328656
+    }
+}

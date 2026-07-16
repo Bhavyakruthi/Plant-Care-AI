@@ -1,0 +1,15 @@
+{
+    "sample": 3,
+    "file": "e1af66f2-f7a8-4ae8-8f79-f9b8e8508d58___Crnl_L.Mold 8697.JPG",
+    "true_label": "Tomato_Leaf_Mold",
+    "pred_label": "Tomato_Leaf_Mold",
+    "is_correct": true,
+    "confidence": 0.7305933237075806,
+    "description": "{\"description\": \"Leaf exhibits irregular chlorosis and potential necrosis. Texture appears slightly rough or granular in affected areas. Leaf margin is generally intact, though some distortion is present due to discoloration.\"} {\"description\": \"Lesions are characterized by a mottled yellow to orange discoloration, transitioning to brown in some areas. No distinct lesion borders are visible; the discoloration is diffuse. Possible presence of a powdery or granular substance on the leaf surface, potentially fungal spores or hyphal growth.\"} Symptoms are not uniformly distributed. Chlorosis and necrosis are concentrated on the upper leaf surface, particularly along the veins and interveinal spaces. Distribution appears somewhat random, but with a tendency to follow vein patterns. Lower portion of the leaf appears less affected.",
+    "symptom_importance": {
+        "lesion": 0.830759349026367,
+        "chlorosis": 0.7576902239388218,
+        "yellow": 0.5886889637759075,
+        "vein": 0.3919580187806984
+    }
+}

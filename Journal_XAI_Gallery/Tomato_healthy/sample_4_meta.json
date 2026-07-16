@@ -1,0 +1,15 @@
+{
+    "sample": 4,
+    "file": "73cc02ea-96ad-4e02-8240-b599cf1e0384___RS_HL 9839.JPG",
+    "true_label": "Tomato_healthy",
+    "pred_label": "Tomato_healthy",
+    "is_correct": true,
+    "confidence": 0.7387641668319702,
+    "description": "{\"description\": \"Leaf exhibits a generally ovate shape with serrated margins. Venation is pinnate, with a prominent midrib. Leaf surface appears textured, potentially due to pubescence or minor surface irregularities. Overall leaf condition appears compromised.\"} {\"description\": \"Diffuse, irregular chlorosis is observed across the majority of the leaf surface. No distinct, defined necrotic or sporulating lesions are visible. The chlorosis appears to be systemic rather than localized.\"} Chlorosis is widespread and relatively uniform across the leaf blade, though slightly more pronounced towards the margins. No clear pattern of distribution is evident, suggesting a systemic or non-localized infection/stressor.",
+    "symptom_importance": {
+        "necrotic": 0.900555723076233,
+        "lesion": 0.8372194074065004,
+        "chlorosis": 0.8161244937955724,
+        "margins": 0.5460352432344329
+    }
+}

@@ -1,0 +1,16 @@
+{
+    "sample": 3,
+    "file": "2f3e2c44-a83b-4f72-a831-ac42aec1020e___UF.GRC_BS_Lab Leaf 0211.JPG",
+    "true_label": "Tomato_Bacterial_spot",
+    "pred_label": "Tomato_Bacterial_spot",
+    "is_correct": true,
+    "confidence": 0.6193345785140991,
+    "description": "{\"description\": \"Leaf exhibits irregular margins with some areas of necrosis and chlorosis. Venation is visible but appears slightly obscured in affected areas. Leaf surface appears generally smooth, though some textural changes are present within lesion areas.\"} {\"description\": \"Lesions are characterized by chlorotic halos surrounding areas of tan to brown necrosis. Lesions vary in size, ranging from pinpoint to approximately 5mm in diameter. Some lesions appear slightly raised or textured.  Evidence of possible sporulation within necrotic areas is suggested by the discoloration.\"} Lesions are primarily concentrated along the leaf margin and extending inward, with a higher density in the upper portion of the leaf. Distribution appears somewhat random, but with a tendency to follow vein patterns.  No clear pattern of lesion arrangement is observed.",
+    "symptom_importance": {
+        "halo": 0.963207473893343,
+        "necrotic": 0.8737575045915559,
+        "chlorosis": 0.7841819510822413,
+        "lesion": 0.7213221392275242,
+        "margins": 0.47747383608870425
+    }
+}

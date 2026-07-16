@@ -1,0 +1,14 @@
+{
+    "sample": 4,
+    "file": "28d202ba-1fd8-4200-9727-ad3d977d58f9___Crnl_L.Mold 6758.JPG",
+    "true_label": "Tomato_Leaf_Mold",
+    "pred_label": "Tomato_Leaf_Mold",
+    "is_correct": true,
+    "confidence": 0.5960747599601746,
+    "description": "{\"description\": \"Leaf exhibits a simple, ovate shape with an acute apex and serrated margins. Venation is pinnate, appearing slightly raised. Leaf surface appears generally smooth, though some texture may be present due to pubescence or minor irregularities.\"} {\"description\": \"Irregularly shaped chlorotic areas are present. These areas are not sharply defined, exhibiting a diffuse boundary with surrounding healthy tissue. No signs of necrosis or sporulation are readily visible in the image. The chlorosis appears to be interveinal, with veins remaining relatively green.\"} Chlorotic areas are distributed primarily along the lower portion of the leaf, with a tendency to follow the vein network. The distribution is not uniform, appearing more concentrated in certain areas than others. There is a gradient of chlorosis, with more pronounced symptoms towards the base of the leaf.",
+    "symptom_importance": {
+        "chlorosis": 0.8149553405052503,
+        "margins": 0.5331165132386897,
+        "vein": 0.3783294308575944
+    }
+}

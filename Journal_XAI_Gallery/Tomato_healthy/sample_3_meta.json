@@ -1,0 +1,15 @@
+{
+    "sample": 3,
+    "file": "ac022a2b-764c-4507-8dd9-4470b75763e4___RS_HL 9937.JPG",
+    "true_label": "Tomato_healthy",
+    "pred_label": "Tomato_healthy",
+    "is_correct": true,
+    "confidence": 0.5622655153274536,
+    "description": "{\"description\": \"Leaf exhibits significant distortion and curling, particularly along the longitudinal axis. Venation is visible but appears somewhat obscured by the overall leaf deformation. Leaf surface texture appears slightly rough or puckered.\"} {\"description\": \"No distinct, discrete lesions (spots, blights, cankers) are visible. The damage appears to be systemic or physiological, rather than localized infection.\"} Symptoms are not uniformly distributed; the curling and distortion are more pronounced on one side of the midrib compared to the other. The distortion appears to follow the leaf veins.",
+    "symptom_importance": {
+        "blight": 1.0021620765339492,
+        "lesion": 0.8751811147142323,
+        "spot": 0.7532682360280956,
+        "vein": 0.4052572594477445
+    }
+}

@@ -1,0 +1,15 @@
+{
+    "sample": 5,
+    "file": "c6abf1da-b06f-4cd2-8af6-d68be5eff6f9___RS_HL 1766.JPG",
+    "true_label": "Potato___healthy",
+    "pred_label": "Potato___healthy",
+    "is_correct": true,
+    "confidence": 0.809729814529419,
+    "description": "{\"description\": \"Simple leaf with ovate shape and acute apex. Pinnate venation is clearly visible. Leaf surface appears slightly textured, potentially due to pubescence or minor irregularities.\"} {\"description\": \"No distinct lesions or spots are visible in the image. There is a subtle, diffuse discoloration, potentially indicating a mild chlorosis or early stage of a systemic issue, but no defined necrotic or chlorotic areas.\"} The subtle discoloration, if present, appears relatively uniform across the leaf surface, without a specific pattern or localized concentration.",
+    "symptom_importance": {
+        "necrotic": 0.9287347795764223,
+        "chlorosis": 0.8341078075189762,
+        "lesion": 0.7776367878719972,
+        "spot": 0.6926514020803549
+    }
+}

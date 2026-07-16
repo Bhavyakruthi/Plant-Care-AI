@@ -1,0 +1,15 @@
+{
+    "sample": 5,
+    "file": "745c9116-5a5c-4574-a5b2-85928543fc9d___Com.G_SpM_FL 1305.JPG",
+    "true_label": "Tomato_Spider_mites_Two_spotted_spider_mite",
+    "pred_label": "Tomato_Spider_mites_Two_spotted_spider_mite",
+    "is_correct": true,
+    "confidence": 0.6570238471031189,
+    "description": "{\"description\": \"Leaf exhibits distortion and puckering, with noticeable changes in surface texture. Veins are prominent and appear raised or swollen. Overall leaf shape is irregular with some marginal undulation.\"} {\"description\": \"Presence of numerous chlorotic and slightly raised areas, appearing as blister-like structures. Some areas exhibit a mosaic pattern of light and dark green coloration. No evidence of necrotic spots or tissue collapse.\"} Lesions are concentrated along the veins, particularly on the abaxial (lower) surface, but visible on the adaxial (upper) surface as well. Distribution is not uniform, with higher density in the upper portion of the leaf. Lesions appear to follow the vein network.",
+    "symptom_importance": {
+        "necrotic": 0.8834624744632333,
+        "lesion": 0.835036857101242,
+        "spot": 0.7368936250707304,
+        "vein": 0.40933771302840416
+    }
+}

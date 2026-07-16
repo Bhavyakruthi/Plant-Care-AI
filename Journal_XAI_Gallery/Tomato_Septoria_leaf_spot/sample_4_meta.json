@@ -1,0 +1,16 @@
+{
+    "sample": 4,
+    "file": "53587f20-0646-4ba9-9124-c2ccbd6e31e6___JR_Sept.L.S 2555.JPG",
+    "true_label": "Tomato_Septoria_leaf_spot",
+    "pred_label": "Tomato_Septoria_leaf_spot",
+    "is_correct": true,
+    "confidence": 0.6378008127212524,
+    "description": "{\"description\": \"Leaf exhibits a simple, ovate shape with an acute apex and serrated margins. Venation appears reticulate. Leaf surface appears generally smooth, with some textural changes associated with lesions.\"} {\"description\": \"Multiple, small, circular to slightly irregular lesions are present. Lesions exhibit a chlorotic halo surrounding a necrotic center. The necrotic centers are dark brown to black and appear slightly raised or scabrous. Some lesions appear coalescing.\"} Lesions are primarily concentrated on the lower portion of the leaf blade, with a scattered distribution. There is a tendency for lesions to follow vein patterns. Distribution is not uniform across the entire leaf surface.",
+    "symptom_importance": {
+        "halo": 0.9443033567606494,
+        "necrotic": 0.8914283459948248,
+        "lesion": 0.7435353402051792,
+        "margins": 0.5064492295891769,
+        "vein": 0.41960878514433164
+    }
+}

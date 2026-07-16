@@ -1,0 +1,16 @@
+{
+    "sample": 5,
+    "file": "463b2ce4-28ac-416d-9a43-2e494e649fbf___GCREC_Bact.Sp 6146.JPG",
+    "true_label": "Tomato_Bacterial_spot",
+    "pred_label": "Tomato_Bacterial_spot",
+    "is_correct": true,
+    "confidence": 0.6797603964805603,
+    "description": "{\"description\": \"Leaf exhibits irregular margins with evidence of chlorosis and necrosis. Leaf texture appears slightly thickened and potentially leathery. Overall leaf shape is somewhat distorted.\"} {\"description\": \"Multiple, small, dark brown to black necrotic spots are present. Lesions are generally circular to irregular in shape, with some exhibiting a slightly raised or scabrous texture. Some lesions appear coalescing.\"} Lesions are distributed across the leaf surface, with a higher concentration towards the margins and older leaf tissue. Distribution appears somewhat random, but with a tendency to cluster.",
+    "symptom_importance": {
+        "necrotic": 0.8420124637859439,
+        "lesion": 0.7264292452728552,
+        "chlorosis": 0.7236100296269501,
+        "spot": 0.664849399403627,
+        "margins": 0.5121627579340711
+    }
+}

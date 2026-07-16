@@ -1,0 +1,15 @@
+{
+    "sample": 3,
+    "file": "fb3352cc-9189-4214-8b94-a60c6a392c96___RS_Erly.B 9600.JPG",
+    "true_label": "Tomato_Early_blight",
+    "pred_label": "Tomato_Early_blight",
+    "is_correct": true,
+    "confidence": 0.7220593690872192,
+    "description": "{\"description\": \"Leaf exhibits chlorosis and necrosis. Leaf margin shows signs of desiccation and irregular damage. Surface appears slightly textured, potentially due to fungal sporulation.\"} {\"description\": \"Multiple, discrete lesions are present. Lesions are primarily dark brown to black, circular to irregular in shape, and exhibit a slightly raised or scabrous texture. Some lesions have a chlorotic halo. Evidence of lesion coalescence is observed.\"} Lesions are distributed across the leaf surface, with a higher concentration on the lower portion and along the margins. Distribution appears somewhat random, but with a tendency to cluster.",
+    "symptom_importance": {
+        "halo": 0.8294224028376167,
+        "chlorosis": 0.7555229181921321,
+        "lesion": 0.7468641454260863,
+        "margins": 0.5482239641454579
+    }
+}

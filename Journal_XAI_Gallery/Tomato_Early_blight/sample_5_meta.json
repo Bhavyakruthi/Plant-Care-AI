@@ -1,0 +1,14 @@
+{
+    "sample": 5,
+    "file": "a725f34d-c57c-4189-9ec8-6aeec7fb6a78___RS_Erly.B 6452.JPG",
+    "true_label": "Tomato_Early_blight",
+    "pred_label": "Tomato_Early_blight",
+    "is_correct": true,
+    "confidence": 0.625765323638916,
+    "description": "{\"description\": \"Leaf exhibits a generally ovate shape with an irregular margin, showing signs of potential mechanical damage or insect feeding. Venation is visible but not prominently displayed.\"} {\"description\": \"Presence of a distinct, dark brown to black, necrotic lesion. The lesion appears slightly sunken and has a defined, irregular border. A chlorotic halo surrounds the lesion, indicating a localized host response. Smaller, punctate lesions are also visible.\"} Lesions are localized, not uniformly distributed across the leaf surface. The primary lesion is located mid-leaf, with smaller lesions scattered along the margin. The chlorotic area extends from the primary lesion towards the leaf apex.",
+    "symptom_importance": {
+        "necrotic": 0.9456545577257282,
+        "halo": 0.8900366298856709,
+        "lesion": 0.7357411831867191
+    }
+}

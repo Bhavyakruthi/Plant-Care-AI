@@ -1,0 +1,16 @@
+{
+    "sample": 5,
+    "file": "4c25c41d-6e73-46e6-bf17-f9571fa80733___RS_Late.B 6077.JPG",
+    "true_label": "Tomato_Late_blight",
+    "pred_label": "Tomato_Late_blight",
+    "is_correct": true,
+    "confidence": 0.5556550621986389,
+    "description": "{\"description\": \"Leaf exhibits a generally ovate shape with serrated margins. Surface texture appears slightly pubescent or covered in fine hairs. Visible venation is reticulate.\"} {\"description\": \"Presence of a large, irregular necrotic lesion concentrated at the distal portion of the leaf. The lesion exhibits a dark brown to black coloration and appears dry and brittle. Surrounding the necrotic area, there is a halo of chlorosis. A white, powdery growth is visible on both healthy and affected leaf tissue, suggesting a fungal or oomycete etiology.\"} Lesions are localized to the distal portion of the leaf, with the powdery growth distributed more broadly across the leaf surface. The pattern suggests a potential for systemic spread or spore dispersal from the initial lesion.",
+    "symptom_importance": {
+        "halo": 0.9024459627548409,
+        "necrotic": 0.883211658264882,
+        "chlorosis": 0.825126819215527,
+        "lesion": 0.7655600211292204,
+        "margins": 0.5269892903791988
+    }
+}

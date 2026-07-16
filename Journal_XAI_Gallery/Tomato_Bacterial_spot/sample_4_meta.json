@@ -1,0 +1,15 @@
+{
+    "sample": 4,
+    "file": "0d56df83-84fb-4189-a5d2-3a6da18a224d___UF.GRC_BS_Lab Leaf 9029.JPG",
+    "true_label": "Tomato_Bacterial_spot",
+    "pred_label": "Tomato_Bacterial_spot",
+    "is_correct": true,
+    "confidence": 0.6802106499671936,
+    "description": "{\"description\": \"Leaf exhibits irregular margins with evidence of necrosis and chlorosis. Leaf shape is generally ovate, but distorted due to damage. Texture appears slightly leathery.\"} {\"description\": \"Multiple, small (1-3mm diameter) lesions are present. Lesions are predominantly dark brown to black, punctate, and slightly raised. Some lesions exhibit a halo of chlorotic tissue. Evidence of marginal necrosis is also present, appearing as a brown, dry border.\"} Lesions are scattered across the leaf surface, with a higher concentration towards the margins. Marginal necrosis is continuous along a significant portion of the leaf perimeter. No apparent pattern to lesion distribution beyond marginal preference.",
+    "symptom_importance": {
+        "halo": 0.8932942615330027,
+        "chlorosis": 0.7402662358471876,
+        "lesion": 0.7321134978290763,
+        "margins": 0.4569996638927791
+    }
+}

@@ -1,0 +1,16 @@
+{
+    "sample": 5,
+    "file": "7d8da270-f47d-4422-9855-c8a4c93839ba___JR_B.Spot 9087.JPG",
+    "true_label": "Pepper__bell___Bacterial_spot",
+    "pred_label": "Pepper__bell___Bacterial_spot",
+    "is_correct": true,
+    "confidence": 0.7435070276260376,
+    "description": "{\"edges\": \"Irregular, with some necrotic areas; slight curling observed.\", \"veins\": \"Visible, but not prominently affected; slight chlorosis along some veins.\"} {\"color\": \"Brown to dark brown, with a possible halo of yellowing.\", \"shape\": \"Small, circular to slightly irregular spots.\"} Scattered across the leaf surface, with concentration towards the margins and tip. Some localized chlorosis.",
+    "symptom_importance": {
+        "necrotic": 0.8606321395693017,
+        "halo": 0.8515780774247439,
+        "chlorosis": 0.729727934367847,
+        "spot": 0.677271944974227,
+        "yellow": 0.5971026299830731
+    }
+}

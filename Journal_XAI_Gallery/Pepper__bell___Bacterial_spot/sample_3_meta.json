@@ -1,0 +1,16 @@
+{
+    "sample": 3,
+    "file": "9dbff8df-4ad1-46ec-96d7-4f35a27e2d5d___JR_B.Spot 8987.JPG",
+    "true_label": "Pepper__bell___Bacterial_spot",
+    "pred_label": "Pepper__bell___Bacterial_spot",
+    "is_correct": true,
+    "confidence": 0.7344969511032104,
+    "description": "{\"edges\": \"Slightly irregular, some necrosis present.\", \"veins\": \"Visible, but not prominently affected; some discoloration along veins.\"} {\"color\": \"Brown to dark brown, with some yellowing (chlorosis) around the lesions.\", \"shape\": \"Irregular, small to medium-sized spots; some coalescing to form larger patches.\"} Symptoms are widespread across the leaf surface, with a higher concentration towards the margins and interveinal areas.",
+    "symptom_importance": {
+        "chlorosis": 0.8758860826987457,
+        "lesion": 0.7517670792620446,
+        "spot": 0.6566007720156306,
+        "yellow": 0.5913980644082707,
+        "margins": 0.4642120933101995
+    }
+}

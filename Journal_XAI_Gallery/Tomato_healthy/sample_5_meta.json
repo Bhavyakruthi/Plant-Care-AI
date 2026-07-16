@@ -1,0 +1,13 @@
+{
+    "sample": 5,
+    "file": "82df832d-43d4-41c5-97b8-baf8ff9c658c___RS_HL 9917.JPG",
+    "true_label": "Tomato_healthy",
+    "pred_label": "Tomato_healthy",
+    "is_correct": true,
+    "confidence": 0.7201200127601624,
+    "description": "{\"description\": \"Leaf surface exhibits a dense, powdery, white coating. The leaf blade appears otherwise generally intact in shape and venation, though obscured by the coating.\"} {\"description\": \"No distinct lesions are visible. The primary symptom is a widespread, superficial growth covering the leaf surface. There is no evidence of tissue necrosis or chlorosis beyond what might be caused by the pathogen's presence.\"} The powdery growth is distributed extensively across the entire upper leaf surface, appearing relatively uniform in density. It is also visible on the petiole.",
+    "symptom_importance": {
+        "chlorosis": 0.8126216991740945,
+        "lesion": 0.8081712940794944
+    }
+}

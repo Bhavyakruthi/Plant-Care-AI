@@ -1,0 +1,15 @@
+{
+    "sample": 3,
+    "file": "920f60f5-6435-427f-a855-5e66552dd8b9___GHLB2 Leaf 9020.JPG",
+    "true_label": "Tomato_Late_blight",
+    "pred_label": "Tomato_Late_blight",
+    "is_correct": true,
+    "confidence": 0.5086765885353088,
+    "description": "{\"description\": \"Leaf exhibits significant distortion and curling, particularly along the margins. The overall leaf size appears reduced compared to a healthy, mature leaf. Texture appears slightly thickened and potentially leathery.\"} {\"description\": \"No distinct, defined lesions are visible. However, there is a generalized chlorosis (yellowing) and a mottled appearance throughout the leaf. Areas of darker green suggest potential localized necrosis or altered chlorophyll content.\"} Symptoms are widespread across the entire leaf surface, with no clear pattern of localized infection. The distortion is most pronounced at the leaf margins and apex.",
+    "symptom_importance": {
+        "lesion": 0.8459281775520374,
+        "chlorosis": 0.7743430994778171,
+        "yellow": 0.5694873695961297,
+        "margins": 0.5395759650176064
+    }
+}

@@ -1,0 +1,7 @@
+{
+  "optimal_alpha": 0.99,
+  "text_accuracy": 0.6671893375147001,
+  "image_accuracy": 0.9576636613092905,
+  "ensemble_default_accuracy": 0.9682477459819678,
+  "ensemble_optimized_accuracy": 0.9580556644453155
+}

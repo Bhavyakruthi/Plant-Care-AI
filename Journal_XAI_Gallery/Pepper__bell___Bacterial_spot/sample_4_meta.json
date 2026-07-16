@@ -1,0 +1,15 @@
+{
+    "sample": 4,
+    "file": "f6a20939-1617-49f7-a7a4-1dde2020426b___JR_B.Spot 3365.JPG",
+    "true_label": "Pepper__bell___Bacterial_spot",
+    "pred_label": "Pepper__bell___Bacterial_spot",
+    "is_correct": true,
+    "confidence": 0.805914044380188,
+    "description": "{\"edges\": \"Slightly irregular, some areas of necrosis along the margin.\", \"veins\": \"Prominent, but not significantly altered in color or texture.\"} {\"color\": \"Brown to dark brown, with some reddish-brown halos.\", \"shape\": \"Small, circular to slightly irregular spots. Some coalescing observed.\"} Scattered across the leaf surface, more concentrated towards the margins and along veins. Not uniformly distributed.",
+    "symptom_importance": {
+        "halo": 0.9006939474342031,
+        "spot": 0.6417441074950808,
+        "margins": 0.5029487071446334,
+        "vein": 0.36856167617998176
+    }
+}

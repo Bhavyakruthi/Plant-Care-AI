@@ -1,0 +1,14 @@
+{
+    "sample": 5,
+    "file": "5fe37f29-fe15-42ac-93b5-90aa5337bd55___RS_LB 2514.JPG",
+    "true_label": "Potato___Late_blight",
+    "pred_label": "Potato___Late_blight",
+    "is_correct": true,
+    "confidence": 0.6770238280296326,
+    "description": "{\"edges\": \"Slightly undulate, intact\", \"veins\": \"Pinnate venation, prominent central vein, visible secondary veins\"} {\"color\": \"Brown to dark brown, with a possible lighter halo\", \"shape\": \"Irregular, somewhat circular to angular\"} Localized, single lesion observed near the upper portion of the leaf",
+    "symptom_importance": {
+        "halo": 0.9346606478537359,
+        "lesion": 0.850273677679213,
+        "vein": 0.3759964085874264
+    }
+}

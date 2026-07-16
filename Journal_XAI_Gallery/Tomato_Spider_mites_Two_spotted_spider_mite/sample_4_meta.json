@@ -1,0 +1,14 @@
+{
+    "sample": 4,
+    "file": "8e2bcfaf-0564-4d2b-966d-b69dc9492ed9___Com.G_SpM_FL 9436.JPG",
+    "true_label": "Tomato_Spider_mites_Two_spotted_spider_mite",
+    "pred_label": "Tomato_Spider_mites_Two_spotted_spider_mite",
+    "is_correct": true,
+    "confidence": 0.5494373440742493,
+    "description": "{\"description\": \"Leaf exhibits a textured surface with prominent venation. The leaf margin is irregularly lobed and slightly undulating. Overall leaf shape is broadly ovate.\"} {\"description\": \"Numerous, small, circular to slightly irregular chlorotic spots are present. Some spots exhibit a reddish-brown center, potentially indicating necrosis. Spots are generally less than 2mm in diameter.\"} Lesions are distributed across the leaf surface, with a higher concentration on the lower leaf surface and along the veins. Distribution appears somewhat random, but with a tendency to follow vein patterns.",
+    "symptom_importance": {
+        "lesion": 0.7651775049987682,
+        "spot": 0.7141099773449272,
+        "vein": 0.41667571126508823
+    }
+}

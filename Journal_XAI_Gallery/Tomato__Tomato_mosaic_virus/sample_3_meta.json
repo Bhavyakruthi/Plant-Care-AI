@@ -1,0 +1,14 @@
+{
+    "sample": 3,
+    "file": "d338ebb0-f140-48c6-b828-7349f43cf866___PSU_CG 2339.JPG",
+    "true_label": "Tomato__Tomato_mosaic_virus",
+    "pred_label": "Tomato__Tomato_mosaic_virus",
+    "is_correct": true,
+    "confidence": 0.656693696975708,
+    "description": "{\"edges\": \"Slightly undulate, with some minor serrations.\", \"veins\": \"Prominent, raised, and slightly darker green than interveinal areas.\"} {\"color\": \"Pale green to yellowish, chlorotic.\", \"shape\": \"Irregular, mosaic-like pattern; small, scattered spots coalescing in some areas.\"} Symptoms are widespread across the leaf surface, affecting interveinal areas predominantly.",
+    "symptom_importance": {
+        "spot": 0.7109400882394914,
+        "yellow": 0.6530869326157892,
+        "vein": 0.37178746510888744
+    }
+}

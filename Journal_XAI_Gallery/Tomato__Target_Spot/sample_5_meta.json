@@ -1,0 +1,14 @@
+{
+    "sample": 5,
+    "file": "b9e0a7ff-7055-4184-a8bd-ff4321dc8dee___Com.G_TgS_FL 7866.JPG",
+    "true_label": "Tomato__Target_Spot",
+    "pred_label": "Tomato_Septoria_leaf_spot",
+    "is_correct": false,
+    "confidence": 0.47413426637649536,
+    "description": "{\"description\": \"Leaf is broadly ovate with serrated margins. Surface appears pubescent (hairy). Venation is palmate.\"} {\"description\": \"Multiple, small (1-5mm diameter) lesions are present. Lesions are dark brown to black, slightly raised, and appear somewhat angular or irregular in shape. Some lesions exhibit a reddish-purple halo. Possible presence of sporulation within lesions.\"} Lesions are scattered across the leaf surface, with a higher concentration towards the distal portion. No apparent pattern of distribution (random).",
+    "symptom_importance": {
+        "lesion": 0.8790757931669587,
+        "halo": 0.8442889014824129,
+        "margins": 0.5067498476050751
+    }
+}

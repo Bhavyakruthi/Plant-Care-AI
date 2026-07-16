@@ -1,0 +1,14 @@
+{
+    "sample": 3,
+    "file": "45ca0dd0-e8eb-4366-bf16-60ff1a7b8763___YLCV_NREC 2668.JPG",
+    "true_label": "Tomato__Tomato_YellowLeaf__Curl_Virus",
+    "pred_label": "Tomato__Tomato_YellowLeaf__Curl_Virus",
+    "is_correct": true,
+    "confidence": 0.5594472885131836,
+    "description": "{\"edges\": \"Undulating, slightly ruffled\", \"veins\": \"Prominent, raised, visible\"} {\"color\": \"Pale green to yellow, chlorotic\", \"shape\": \"Irregular, diffuse areas of discoloration; no distinct spots\"} Symptoms are widespread across the entire leaf surface, but more pronounced along the veins.",
+    "symptom_importance": {
+        "spot": 0.707235368021223,
+        "yellow": 0.6564667511396521,
+        "vein": 0.38548194569733396
+    }
+}

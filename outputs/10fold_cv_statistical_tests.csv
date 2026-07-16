@@ -1,0 +1,4 @@
+Comparison,t-statistic,p-value,Significant (α=0.05)
+Image-Only (CNN+QNN) vs Text-Only (BioBERT),132.6306,0,Yes
+Image-Only (CNN+QNN) vs Multimodal (Ensemble),-7.3987,0,Yes
+Text-Only (BioBERT) vs Multimodal (Ensemble),-132.8654,0,Yes

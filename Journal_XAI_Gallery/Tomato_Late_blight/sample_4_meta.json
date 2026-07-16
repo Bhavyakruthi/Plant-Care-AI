@@ -1,0 +1,14 @@
+{
+    "sample": 4,
+    "file": "a617c469-1174-43ab-910f-0c31a09dd0be___RS_Late.B 6085.JPG",
+    "true_label": "Tomato_Late_blight",
+    "pred_label": "Tomato_Late_blight",
+    "is_correct": true,
+    "confidence": 0.6895055174827576,
+    "description": "{\"description\": \"Leaf exhibits a generally ovate shape with an acute apex. Venation is reticulate and appears slightly raised. Leaf surface texture appears slightly rugose.\"} {\"description\": \"Irregularly shaped, necrotic lesions are present. Lesions exhibit a dark brown to black coloration with a surrounding chlorotic halo. Some lesions appear sunken and slightly textured. Evidence of tissue collapse within the lesion area. Possible sporulation visible within the necrotic tissue.\"} Lesions are localized and concentrated on the lower portion of the leaf, extending towards the midrib. Distribution appears somewhat clustered, rather than uniformly scattered. Lesions are not observed on the leaf margin.",
+    "symptom_importance": {
+        "necrotic": 0.9389837386976115,
+        "halo": 0.8195594262118121,
+        "lesion": 0.7574810746674495
+    }
+}

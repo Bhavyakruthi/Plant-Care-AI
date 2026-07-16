@@ -1,0 +1,16 @@
+{
+    "sample": 3,
+    "file": "6edeac14-5ac4-4810-a3c0-ff35feb176fb___Com.G_TgS_FL 7911.JPG",
+    "true_label": "Tomato__Target_Spot",
+    "pred_label": "Tomato__Target_Spot",
+    "is_correct": true,
+    "confidence": 0.33078932762145996,
+    "description": "{\"description\": \"Leaf exhibits a broadly ovate shape with a serrated margin. Surface texture appears slightly rugose, potentially due to minor distortions or early symptom development. Venation is pinnate, visible but not prominently raised.\"} {\"description\": \"Small, circular to irregular chlorotic spots are present. Some spots exhibit a reddish-brown center, suggesting potential necrosis. Lesions are generally discrete, but some appear to be coalescing in localized areas. There is evidence of slight chlorosis around some lesions.\"} Lesions are primarily concentrated along the leaf margins and veins, with a scattered distribution across the leaf blade. The highest concentration of lesions is observed on the lower portion of the leaf. Distribution appears somewhat systemic, rather than strictly localized.",
+    "symptom_importance": {
+        "lesion": 0.8353954984670212,
+        "chlorosis": 0.7974388274439118,
+        "spot": 0.7421094667377667,
+        "margins": 0.5179472769298732,
+        "vein": 0.41221554255585613
+    }
+}

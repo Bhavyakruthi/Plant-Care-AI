@@ -1,0 +1,15 @@
+{
+    "sample": 4,
+    "file": "c73fd35a-bc55-46c3-baf3-a943a6e396c5___RS_Erly.B 9563.JPG",
+    "true_label": "Tomato_Early_blight",
+    "pred_label": "Tomato_Early_blight",
+    "is_correct": true,
+    "confidence": 0.5938003063201904,
+    "description": "{\"description\": \"Leaf exhibits significant distortion and necrosis. Margins are highly irregular and curled downwards. Texture appears brittle and desiccated in affected areas. Some areas retain a greenish hue, indicating incomplete tissue breakdown.\"} {\"description\": \"Lesions are characterized by a dark brown to black, necrotic appearance. They are irregular in shape and size, with a tendency to coalesce. Some lesions exhibit a slightly raised, textured surface, potentially indicating fungal sporulation. A chlorotic halo is present around some of the necrotic areas.\"} Lesions are not uniformly distributed; they appear concentrated along the leaf margins and extending inwards. The distal portion of the leaf is more severely affected than the proximal portion. There is a gradient of symptom severity from the base to the tip.",
+    "symptom_importance": {
+        "necrotic": 0.9719142860958365,
+        "halo": 0.8284409535370933,
+        "lesion": 0.7308252659184452,
+        "margins": 0.4717788627653634
+    }
+}

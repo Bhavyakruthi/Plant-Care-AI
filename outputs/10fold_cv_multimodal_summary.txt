@@ -1,0 +1,23 @@
+======================================================================
+10-FOLD CROSS-VALIDATION RESULTS - MULTIMODAL ENSEMBLE (Image + Text)
+======================================================================
+Ensemble Configuration: alpha=0.65 (Image: 65%, Text: 35%)
+
+Accuracy:
+  Mean ± Std:  96.20% ± 0.60%
+  Range:       [95.06%, 97.00%]
+
+Precision:
+  Mean ± Std:  96.36% ± 0.53%
+  Range:       [95.38%, 97.05%]
+
+Recall:
+  Mean ± Std:  96.20% ± 0.60%
+  Range:       [95.06%, 97.00%]
+
+F1-Score:
+  Mean ± Std:  96.17% ± 0.58%
+  Range:       [95.08%, 96.99%]
+
+95% Confidence Interval for Accuracy:
+  96.20% ± 0.37%

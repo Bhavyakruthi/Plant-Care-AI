@@ -1,0 +1,14 @@
+{
+    "sample": 4,
+    "file": "1f9870b3-899e-46fb-98c9-cfc2ce92895b___RS_HL 1816.JPG",
+    "true_label": "Potato___healthy",
+    "pred_label": "Potato___healthy",
+    "is_correct": true,
+    "confidence": 0.8516548871994019,
+    "description": "{\"description\": \"Simple, ovate leaf with an acute apex and rounded base. Prominent venation pattern, with a central midrib and pinnate secondary veins. Leaf surface appears slightly pubescent or textured.\"} {\"description\": \"No visible lesions, spots, or discoloration observed on the leaf surface. No evidence of fungal fruiting bodies, bacterial ooze, or insect damage.\"} Uniformly green across the entire leaf surface. No localized areas of discoloration or symptom development.",
+    "symptom_importance": {
+        "lesion": 0.7678157771957532,
+        "spot": 0.6899329581919598,
+        "vein": 0.38137279292443793
+    }
+}

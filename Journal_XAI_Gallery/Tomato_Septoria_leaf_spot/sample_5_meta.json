@@ -1,0 +1,15 @@
+{
+    "sample": 5,
+    "file": "08233234-a3af-4040-8814-eb13f89802dd___Keller.St_CG 2009.JPG",
+    "true_label": "Tomato_Septoria_leaf_spot",
+    "pred_label": "Tomato_Septoria_leaf_spot",
+    "is_correct": true,
+    "confidence": 0.6073542833328247,
+    "description": "{\"description\": \"Leaf exhibits irregular margins with some areas of necrosis and distortion. Overall leaf shape appears generally intact, but with noticeable edge damage. Venation is visible but not prominently altered.\"} {\"description\": \"Small, circular to irregular lesions are present, ranging in color from yellow to brown. Some lesions appear slightly raised or scabbed. Evidence of tissue breakdown and potential sporulation within lesions is suspected, though not definitively visible at this resolution.\"} Lesions are scattered across the leaf surface, with a higher concentration along the margins and in areas of existing damage. Distribution appears somewhat random, not strictly following vein patterns.",
+    "symptom_importance": {
+        "lesion": 0.7478595703763142,
+        "yellow": 0.6424570594949264,
+        "margins": 0.5360499455064817,
+        "vein": 0.42676228519335635
+    }
+}

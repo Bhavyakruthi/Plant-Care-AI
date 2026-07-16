@@ -1,0 +1,14 @@
+{
+    "sample": 5,
+    "file": "66778ba1-eb89-4597-913a-71c68eb0251e___PSU_CG 2274.JPG",
+    "true_label": "Tomato__Tomato_mosaic_virus",
+    "pred_label": "Tomato__Tomato_mosaic_virus",
+    "is_correct": true,
+    "confidence": 0.6821349859237671,
+    "description": "{\"edges\": \"Undulating, slightly lobed\", \"veins\": \"Prominent, reticulate venation; chlorosis along veins visible\"} {\"color\": \"Pale green to yellow, chlorotic\", \"shape\": \"Irregular, blotchy; follows vein patterns\"} Symptoms are widespread across the leaf blade, concentrated along veins and between veins.",
+    "symptom_importance": {
+        "chlorosis": 0.8327769224302224,
+        "yellow": 0.6397518648155284,
+        "vein": 0.4122163798645662
+    }
+}
